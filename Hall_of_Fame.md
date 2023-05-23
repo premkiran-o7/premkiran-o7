@@ -1,10 +1,9 @@
-<p align="center"><img width=50% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Data%20Science%20for%20Engineers%20.jpg"></p>
 <p align="center"><h3>Data Science for Engineers</h3></p>
+<p align="center"><img width=50% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Data%20Science%20for%20Engineers%20.jpg"></p>
 <hr>
 
-
-<p align="center"><img width=50% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Ethical%20Hacking%20.jpg"></p>
 <p align="center"><h3>Ethical Hacking</h3></p>
+<p align="center"><img width=50% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Ethical%20Hacking%20.jpg"></p>
 <hr>
 <p align="center"><h3>UI/UX</h3></p>
 <p align="center"><img width=50% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/UX_Fundamentals.jpg"></p>
