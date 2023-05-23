@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, Cyber Security**
 
-- 💬 Ask me about **Python, Java, C/C++, R, Canva, Figma, Frontend, .**
+- 💬 Ask me about **Python, Java, C/C++, R, Data Science,Cyber Security,Canva, Figma, Frontend, .**
 
 - 📫 How to reach me **premlaknaboina@gmail.com**
 
