@@ -40,12 +40,12 @@
 
 ======================================================
 
-📉![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashuradhipathi&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashuradhipathi&show_icons=true&theme=transparent)
 
-📊<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashuradhipathi&show_icons=true&locale=en&layout=compact" alt="Ashuradhipathi" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashuradhipathi&show_icons=true&locale=en&layout=compact" alt="Ashuradhipathi" /></p>
 
 
-📲<h3 align="center">Connect with me:</h3>
+<h3 align="center">📲Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/ashuradhipathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashuradhipathi" height="30" width="40" /></a>
 <a href="https://twitter.com/Prem_Kiran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prem_Kiran_" height="30" width="40" /></a>
