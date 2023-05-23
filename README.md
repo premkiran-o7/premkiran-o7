@@ -25,7 +25,8 @@
  ⚡ Projects :
 - <a href= https://github.com/Ashuradhipathi/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office> Investigating Netflix Movies (DataScience)</a>
 
-- 🔥 [Hall Of Fame](https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/Hall_of_Fame.md) 🔥
+🔥**Hall Of Fame**
+-  [Enter!](https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/Hall_of_Fame.md) 🔥
 
 ======================================================
 # 💻 Tech Stack:
