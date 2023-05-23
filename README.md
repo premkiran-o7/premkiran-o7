@@ -1,6 +1,6 @@
 # Prem-Kiran-Laknaboina
 <h1 align="center">Hi 👋, I'm Prem Kiran</h1>
-<h3 align="center">An enthusiast in computer science, AI, ML, Data Science, Cybersecurity</h3>
+<h3 align="center">An enthusiast in computer science, AI, ML, Data Science, Cyber Security</h3>
 ======================================================
 
 -  📜 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
