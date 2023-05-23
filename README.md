@@ -28,7 +28,7 @@
 ======================================================
 
 # 🏛️**Hall Of Fame**
--  [Enter!](https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/Hall_of_Fame.md) 🔥
+- 🏆 [Enter!](https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/Hall_of_Fame.md) 
 <br>
 
 # 💻 Tech Stack:
