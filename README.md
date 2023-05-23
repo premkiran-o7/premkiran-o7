@@ -15,14 +15,14 @@
 
 ======================================================
 <br>
-📚 Projects On:
+## 📚 Projects On:
 - <a href= https://github.com/Ashuradhipathi/Webscraping->Web Scraping</a>
 - <a href= https://github.com/Ashuradhipathi/WebDev>Web dev</a>
 - <a href= https://github.com/Ashuradhipathi/Flask>Flask </a>
 - <a href= https://github.com/Ashuradhipathi/React> React </a>
 - <a href= https://github.com/Ashuradhipathi/Learn-R>R </a>
 
-👨🏽‍💻 Projects :
+## 👨🏽‍💻 Projects :
 - <a href= https://github.com/Ashuradhipathi/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office> Investigating Netflix Movies (DataScience)</a>
 
 ======================================================
