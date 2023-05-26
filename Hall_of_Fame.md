@@ -10,10 +10,10 @@
 
 <hr>
 <p align="center"><h3>Python</h3></p>
-<p align="right"><img width=30% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Introduction_To_Python.jpg"></p>
-
-<p align="left"><img width=30% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Intermediate_Python.jpg"></p>
-
+<p align="right"><img width=30% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/python_basic%20certificate%20(1)_page-0001.jpg"></p>
+<p align="left"><img width=30% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Introduction_To_Python.jpg"></p>
+<p align="right"><img width=30% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/Intermediate_Python.jpg"></p>
+<p align="left"><img width=30% src="https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/hall_of_fame/introduction_to_statistics_in_python_page-0001.jpg"></p>
 
 <hr>
 <p align="center"><h3>Pandas</h3></p>
