@@ -23,8 +23,9 @@
 - <a href= https://github.com/Ashuradhipathi/Learn-R>R </a>
 - [Data Structures and Algorithms](https://github.com/Ashuradhipathi/Data-Structures-and-Algorithms)
 ## 👨🏽‍💻 Projects :
-- <a href= https://github.com/Ashuradhipathi/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office> Investigating Netflix Movies (Data Science)</a>
+- [Investigating Netflix Movies (Data Science)](https://github.com/Ashuradhipathi/Netflix-Movie-Duration)
 - [What and Where are the Worlds Oldest Businesses(Data Science)](https://github.com/Ashuradhipathi/What-and-Where-are-the-World-s-Oldest-Businesses)
+- [The Android App Market on Google Play (Data Science)](https://github.com/Ashuradhipathi/The-Android-App-Market-on-Google-Play)
 
 ======================================================
 
