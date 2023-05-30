@@ -26,6 +26,7 @@
 - [Investigating Netflix Movies (Data Science)](https://github.com/Ashuradhipathi/Netflix-Movie-Duration)
 - [What and Where are the Worlds Oldest Businesses(Data Science)](https://github.com/Ashuradhipathi/What-and-Where-are-the-World-s-Oldest-Businesses)
 - [The Android App Market on Google Play (Data Science)](https://github.com/Ashuradhipathi/The-Android-App-Market-on-Google-Play)
+- [A Visual History of Nobel Prize Winners](https://github.com/Ashuradhipathi/A-Visual-History-of-Nobel-Prize-Winners)
 
 ======================================================
 
