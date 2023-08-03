@@ -45,12 +45,12 @@
 <br> 
 
 ## 🎓Certifications
-![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers<br>
-![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Ethical Hacking<br>
-![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design
-![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Analyst with Python
-![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist  with Python
-![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  <em>certified for</em> -- Data Science For Engineers<br>
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  <em>certified for</em> -- Ethical Hacking<br>
+![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design<br>
+![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Analyst with Python<br>
+![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist  with Python<br>
+![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python<br>
 
 ======================================================
 
