@@ -26,9 +26,12 @@
 - [Investigating Netflix Movies (Data Science)](https://github.com/Ashuradhipathi/Netflix-Movie-Duration)
 - [What and Where are the Worlds Oldest Businesses(Data Science)](https://github.com/Ashuradhipathi/What-and-Where-are-the-World-s-Oldest-Businesses)
 - [The Android App Market on Google Play (Data Science)](https://github.com/Ashuradhipathi/The-Android-App-Market-on-Google-Play)
-- [A Visual History of Nobel Prize Winners](https://github.com/Ashuradhipathi/A-Visual-History-of-Nobel-Prize-Winners)
-- [Fake news Classifier](https://github.com/Ashuradhipathi/Fake-News-Classifier)
-- [LGBTQ+ Bot](https://github.com/Uninterestedguy/LGBTQ-bot)
+- [A Visual History of Nobel Prize Winners(Data Science)](https://github.com/Ashuradhipathi/A-Visual-History-of-Nobel-Prize-Winners)
+- [Fake news Classifier(ML)(NLP)](https://github.com/Ashuradhipathi/Fake-News-Classifier)
+- [Dr.Semmelweis and the Discovery of Handwashing)](https://github.com/Ashuradhipathi/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
+- [Predicting Credit Card Approvals(Data Science)(ML)](https://github.com/Ashuradhipathi/Predicting-Credit-Card-Approvals)
+- [Tech Tales(Streamlit)](https://github.com/Ashuradhipathi/tech-tales/tree/master)
+- [Campus Nourish(Flask)](https://github.com/Ashuradhipathi/CampusNourish)
   
 
 ======================================================
