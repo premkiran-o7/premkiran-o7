@@ -28,7 +28,7 @@
 - [The Android App Market on Google Play (Data Science)](https://github.com/Ashuradhipathi/The-Android-App-Market-on-Google-Play)
 - [A Visual History of Nobel Prize Winners(Data Science)](https://github.com/Ashuradhipathi/A-Visual-History-of-Nobel-Prize-Winners)
 - [Fake news Classifier(ML)(NLP)](https://github.com/Ashuradhipathi/Fake-News-Classifier)
-- [Dr.Semmelweis and the Discovery of Handwashing)](https://github.com/Ashuradhipathi/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
+- [Dr.Semmelweis and the Discovery of Handwashing(Data Science)](https://github.com/Ashuradhipathi/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
 - [Predicting Credit Card Approvals(Data Science)(ML)](https://github.com/Ashuradhipathi/Predicting-Credit-Card-Approvals)
 - [Tech Tales(Streamlit)](https://github.com/Ashuradhipathi/tech-tales/tree/master)
 - [Campus Nourish(Flask)](https://github.com/Ashuradhipathi/CampusNourish)
