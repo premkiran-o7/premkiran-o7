@@ -20,8 +20,6 @@
 - <a href= https://github.com/Ashuradhipathi/WebDev>Web dev</a>
 - <a href= https://github.com/Ashuradhipathi/Flask>Flask </a>
 - <a href= https://github.com/Ashuradhipathi/React> React </a>
-- <a href= https://github.com/Ashuradhipathi/Learn-R>R </a>
-- [Data Structures and Algorithms](https://github.com/Ashuradhipathi/Data-Structures-and-Algorithms)
 ## 👨🏽‍💻 Projects :
 - [Investigating Netflix Movies (Data Science)](https://github.com/Ashuradhipathi/Netflix-Movie-Duration)
 - [What and Where are the Worlds Oldest Businesses(Data Science)](https://github.com/Ashuradhipathi/What-and-Where-are-the-World-s-Oldest-Businesses)
