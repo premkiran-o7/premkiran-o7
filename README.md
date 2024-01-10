@@ -14,28 +14,7 @@
 - 📫 How to reach me **premlaknaboina@gmail.com**
 
 ======================================================
-<br>
-## 📚 My Repos On:
-- <a href= https://github.com/Ashuradhipathi/Webscraping->Web Scraping</a>
-- <a href= https://github.com/Ashuradhipathi/WebDev>Web dev</a>
-- <a href= https://github.com/Ashuradhipathi/Flask>Flask </a>
-- <a href= https://github.com/Ashuradhipathi/React> React </a>
-## 👨🏽‍💻 Projects :
-- [Investigating Netflix Movies (Data Science)](https://github.com/Ashuradhipathi/Netflix-Movie-Duration)
-- [What and Where are the Worlds Oldest Businesses(Data Science)](https://github.com/Ashuradhipathi/What-and-Where-are-the-World-s-Oldest-Businesses)
-- [The Android App Market on Google Play (Data Science)](https://github.com/Ashuradhipathi/The-Android-App-Market-on-Google-Play)
-- [A Visual History of Nobel Prize Winners(Data Science)](https://github.com/Ashuradhipathi/A-Visual-History-of-Nobel-Prize-Winners)
-- [Fake news Classifier(ML)(NLP)](https://github.com/Ashuradhipathi/Fake-News-Classifier)
-- [Dr.Semmelweis and the Discovery of Handwashing(Data Science)](https://github.com/Ashuradhipathi/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
-- [Predicting Credit Card Approvals(Data Science)(ML)](https://github.com/Ashuradhipathi/Predicting-Credit-Card-Approvals)
-- [Tech Tales(Streamlit)](https://github.com/Ashuradhipathi/tech-tales/tree/master)
-- [Campus Nourish(Flask)](https://github.com/Ashuradhipathi/CampusNourish)
-  
 
-======================================================
-
-# 🏛️**Hall Of Fame**
-- 🏆 [Enter!](https://github.com/Ashuradhipathi/Ashuradhipathi/blob/main/Hall_of_Fame.md) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
