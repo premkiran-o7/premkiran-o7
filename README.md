@@ -30,6 +30,17 @@
 ![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python<br>
 
 ======================================================
+# Try my deployed streamlit apps
+## *Quiz App*
+- [Admin](https://app-quiz-app.streamlit.app/)
+- [User](https://student-quiz-app.streamlit.app/)
+
+## [*Edu Assistant*](https://eduassistant.streamlit.app/)
+
+## [*Library*](https://edu-library.streamlit.app/)
+
+----
+
 
 ## 📊Stats
 
