@@ -24,10 +24,16 @@
 ## 🎓Certifications
 ![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  <em>certified for</em> -- Data Science For Engineers<br>
 ![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  <em>certified for</em> -- Ethical Hacking<br>
-![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design<br>
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red) <em>certified for</em> -- Python For DataScience<br>
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red) <em>certified for</em> -- AI Search Methods<br>
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red) <em>certified for</em> -- Intro To ML<br>
+![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM-blackGREEN) certified for -- Fundamentals Of UX Design<br>
 ![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Analyst with Python<br>
 ![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist  with Python<br>
 ![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python<br>
+![Kaggle](https://img.shields.io/badge/KAGGLE-blue) <em>certified for</em> -- Intro To Deep Learning<br>
+![Kaggle](https://img.shields.io/badge/KAGGLE-blue) <em>certified for</em> -- Geo Spatial Analysis<br>
+![Kaggle](https://img.shields.io/badge/KAGGLE-blue) <em>certified for</em> -- Computer Vision<br>
 
 ======================================================
 # Try my deployed streamlit apps
