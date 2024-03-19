@@ -5,11 +5,11 @@
 
 -  📜 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
 
-- 🔭 I’m currently learning **Data science, MERN stack, DSA(advanced), Cyber Security**
+- 🔭 I’m currently learning **Data science, Machine Learning, NLP**
 
 - 🤝 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, Cyber Security**
 
-- 💬 Ask me about **Python, Java, C/C++, R, Data Science,Cyber Security,Canva, Figma, Frontend .**
+- 💬 Ask me about **Python, Data Science, Machine Learning .**
 
 - 📫 How to reach me **premlaknaboina@gmail.com**
 
