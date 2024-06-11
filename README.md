@@ -36,16 +36,6 @@
 ![Kaggle](https://img.shields.io/badge/KAGGLE-blue) <em>certified for</em> -- Computer Vision<br>
 
 ======================================================
-# Try my deployed streamlit apps
-## *Quiz App*
-- [Admin](https://app-quiz-app.streamlit.app/)
-- [User](https://student-quiz-app.streamlit.app/)
-
-## [*Edu Assistant*](https://eduassistant.streamlit.app/)
-
-## [*Library*](https://edu-library.streamlit.app/)
-
-----
 
 
 ## 📊Stats
