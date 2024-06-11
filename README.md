@@ -1,13 +1,13 @@
 # Prem-Kiran-Laknaboina
 <h1 align="center">Hi 👋, I'm Prem Kiran</h1>
-<h3 align="center">An enthusiast in computer science, AI, ML, Data Science</h3>
+<h3 align="center">An enthusiast in computer science, AI, ML, Data Science and blah and blah...anything that excites me</h3>
 ======================================================
 
 -  📜 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
 
 - 🔭 I’m currently learning **Data science, Machine Learning, NLP**
 
-- 🤝 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, Cyber Security**
+- 🤝 I’m looking to collaborate on **projects in the field of Datascience, Artificial Intelligence, Machine Learning, Web3 and pretty much anything**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning .**
 
