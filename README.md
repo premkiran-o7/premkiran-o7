@@ -53,5 +53,4 @@
 <a href="https://www.linkedin.com/in/prem-laknaboina/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="prem laknaboina" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21942981" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="21942981" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21311a6611" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="21311a6611" height="30" width="40" /></a>
-<a href="https://discord.gg/ashura#5112" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="ashura#5112" height="30" width="40" /></a>
 </p>
